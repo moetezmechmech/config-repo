@@ -5,5 +5,5 @@ spring:
 build:
   version: 3.0
 author:
-  name: "Moetez [Cours QA]"
+  name: "Moetez [Cours QA]" UPDATED 
   email: "moetez_cours_QA@gmail.com"
