@@ -14,8 +14,6 @@ spring:
     hibernate:
       ddl-auto: update
   cloud:
-    config:
-      enabled: false
     discovery:
       enabled: true
 
@@ -40,4 +38,3 @@ build:
 author:
   name: "Moetez Cours on GITHUB Updated at 10:35"
   email: "mouezmechmech@gmail.com"
-
