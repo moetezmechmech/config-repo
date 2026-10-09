@@ -1,9 +1,7 @@
 server:
-  port: 8082
+  port: 8085
 
 spring:
-  profiles:
-    active: "prod"
   application:
     name: cours
   datasource:
@@ -37,10 +35,9 @@ management:
 
 
 build:
-  version: 1.0
+  version: 3.0
 
 author:
-  name: "Moetez Mechmech"
+  name: "Moetez Cours on GITHUB Updated at 10:35"
   email: "mouezmechmech@gmail.com"
-
 
