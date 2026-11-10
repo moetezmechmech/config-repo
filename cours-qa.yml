@@ -4,6 +4,6 @@ spring:
       on-profile: "qa"
 build:
   version: 3.0
-MEDI
+author:
   name: "Moetez [Cours QA] Updated at 10:35 jeudiiii
   email: "moetez_cours_QA@gmail.com"
